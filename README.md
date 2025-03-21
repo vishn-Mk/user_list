@@ -1,4 +1,18 @@
 # user_list
+# 📱 Flutter Posts App
+
+A beautiful Flutter app that **fetches posts from a public API** and displays them in a **scrollable ListView** with a modern UI. The app supports **pull-to-refresh**, **loading indicators**, and **error handling**.
+
+## ✨ Features
+- 📡 Fetches data from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/posts)
+- 📜 Displays posts in an **elegant card-based list**
+- 🔄 Pull-to-refresh support
+- 🚀 **Optimized UI** with Material Design
+- ⚠️ Handles API errors gracefully
+- 🎨 Modern and stylish UI
+
+
+
 
 A new Flutter project.
 
